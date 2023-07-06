@@ -9,7 +9,7 @@
 <!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=feridecolak" alt="feridecolak" /></a> </p> -->
 
-- 🔭 I’m currently working on **a bookkeeping project**
+<!-- - 🔭 I’m currently working on **a bookkeeping project** -->
 
 - 🌱 I’m currently learning **.Net, Docker, MERN Stack**
 
