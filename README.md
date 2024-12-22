@@ -3,7 +3,7 @@
 -->
 
 <h1 align="center">Hi 👋, I'm Feride</h1>
-<h3 align="center">A passionate Software Engineering Student</h3>
+<h3 align="center">A passionate Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=feridecolak&label=Profile%20views&color=0e75b6&style=flat" alt="feridecolak" /> </p>
 <!--
@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **.Net, Docker, MERN Stack**
 
-- 📫 How to reach me **feride_colak577@hotmail.com**
+- 📫 How to reach me **feridecolak577@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
